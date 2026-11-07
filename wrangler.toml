@@ -1,7 +1,4 @@
-name = "helloworld"
-type = "javascript"
 
-account_id = ""
-workers_dev = true
-route = ""
-zone_id = ""
+name = "helloworld"
+main = "src/index.js"
+compatibility_date = "2026-11-07"
